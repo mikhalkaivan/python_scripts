@@ -1,0 +1,1 @@
+Script make request to yelp.com API and get data about different businesses (food, plumbing etc.), based on location and another filters.
