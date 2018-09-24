@@ -1,0 +1,2 @@
+Script sraps job posts from belmeta.com and recieve job type and location as a CLI parameters. Fields to saving: title, salary, company, 
+publication date and source.
